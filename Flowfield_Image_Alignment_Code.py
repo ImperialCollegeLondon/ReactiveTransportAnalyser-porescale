@@ -1,5 +1,4 @@
 # SPDX-License-Identifier: MIT
-# Copyright (c) 2025 Sajjad Foroughi
 """
 Voxel face-count and dissolution analysis utilities.
 
