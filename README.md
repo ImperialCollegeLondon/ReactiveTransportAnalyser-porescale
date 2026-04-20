@@ -284,11 +284,12 @@ Plot of proxmity function profiles for Sample A:
 
 ## References
 If you use this code, please cite: 
+
 Adedipe et al., (2026) Impact of Mineral Spatial Distribution on CO2 Dissolution Rates in Multimineral Carbonate Rocks. Water Resources Research.
 
 
 ## Contact
-The Python codes was developed by **Sajjad Foroughi** and will be maintained by **Sajjad Foroughi**, and **Olatunbosun Adedipe**. For any inquiries, please contact **Branko Bijeljic** at [b.bijeljic@imperial.ac.uk] or **Olatunbosun Adedipe** at [o.adedipe23@imperial.ac.uk] or **Sajjad Foroughi** at [s.foroughi@imperial.ac.uk].
+For any inquiries, please contact **Branko Bijeljic** at [b.bijeljic@imperial.ac.uk] or **Olatunbosun Adedipe** at [o.adedipe23@imperial.ac.uk] or **Sajjad Foroughi** at [s.foroughi@imperial.ac.uk].
 
 
 
