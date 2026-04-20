@@ -284,7 +284,6 @@ Plot of proxmity function profiles for Sample A:
 
 ## References
 If you use this code, please cite: 
-
 Adedipe et al., (2026) Impact of Mineral Spatial Distribution on CO2 Dissolution Rates in Multimineral Carbonate Rocks. Water Resources Research.
 
 
