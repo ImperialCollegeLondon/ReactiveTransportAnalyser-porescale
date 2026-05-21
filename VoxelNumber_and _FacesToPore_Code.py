@@ -6,8 +6,9 @@ Voxel face-count and dissolution analysis utilities.
 Repository: https://github.com/ImperialCollegeLondon/ReactiveTransportAnalyser-porescale
 License: MIT
 
-If you use this code, please cite:
-Adedipe et al., (2026) Impact of Mineral Spatial Distribution on CO₂ Dissolution Rates in Multimineral Carbonate Rocks. Water Resources Research.
+If you use this code or workflow in your research, please cite the following paper:
+
+> Adedipe, O. A., Al‐Khulaifi, Y., Foroughi, S., Lin, Q., Blunt, M. J., & Bijeljic, B. (2026). Impact of mineral spatial distribution on CO₂ dissolution rates in multimineral carbonate rocks. *Water Resources Research, 62*, e2025WR042362. https://doi.org/10.1029/2025WR042362
 """
 
 import numpy as np
