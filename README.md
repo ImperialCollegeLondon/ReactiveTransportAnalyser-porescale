@@ -289,7 +289,7 @@ Adedipe et al., (2026) Impact of Mineral Spatial Distribution on CO2 Dissolution
 
 
 ## Contact
-For any inquiries, please contact **Branko Bijeljic** at [b.bijeljic@imperial.ac.uk] or **Olatunbosun Adedipe** at [o.adedipe23@imperial.ac.uk] or **Sajjad Foroughi** at [s.foroughi@imperial.ac.uk].
+For general inquiries, please contact **Branko Bijeljic** at [b.bijeljic@imperial.ac.uk] For inquiries abut this tutorial and analyse workflow, please contact **Olatunbosun Adedipe** at [o.adedipe23@imperial.ac.uk] and  **Sajjad Foroughi** at [s.foroughi@imperial.ac.uk].
 
 
 
